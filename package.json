@@ -1,0 +1,15 @@
+{
+  "name": "crypto-scam",
+  "version": "0.0.0",
+  "description": "CryptoScam",
+  "main": "server.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "async": "^3.2.0",
+    "body-parser": "^1.19.0",
+    "ethplorer-node": "0.0.5",
+    "express": "^4.17.1"
+  }
+}

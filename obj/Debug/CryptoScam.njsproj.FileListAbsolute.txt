@@ -1,0 +1,4 @@
+C:\Users\Dayton\source\repos\CryptoScam\obj\Debug\CryptoScam.njsprojAssemblyReference.cache
+C:\Users\Dayton\source\repos\CryptoScam\bin\Microsoft.NodejsTools.WebRole.dll
+C:\Users\Dayton\Desktop\CryptoScam\obj\Debug\CryptoScam.njsprojAssemblyReference.cache
+C:\Users\Dayton\Desktop\CryptoScam\bin\Microsoft.NodejsTools.WebRole.dll
